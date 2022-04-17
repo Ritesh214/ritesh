@@ -13,7 +13,7 @@
 
 <h2 align="center"> Who Am I</h2>
 <p align="center">
-  <samp>A highly resourceful Software Developer and well-rounded IT Professional building things for the Android and Web Platforms, possessing expert knowledge of the Software Development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A passionate fullstack software developer with experience developing systems using Java, Javascript, C++, Python and MongoDB. I possess expert knowledge of the Software Development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure. I have skills in Software design and engineering, Algorithms and data structure, Databases, Help Desk Support and Technical Support.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=GypsyTheDj" alt="https://github.com/GypsyTheDj" />
